@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "kit-introducao-soldadura")(type "KiCad")(uri "C:/Users/jpsgj/OneDrive - Universidade de Lisboa/Documentos/kiCad/libraries/kit-introducao-soldadura")(options "")(descr ""))
+  (lib (name "LOGO IST")(type "KiCad")(uri "C:/Users/jpsgj/OneDrive - Universidade de Lisboa/Documentos/kiCad/libraries/logo_ist")(options "")(descr ""))
+)
